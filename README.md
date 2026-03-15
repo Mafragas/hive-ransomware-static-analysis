@@ -1,4 +1,4 @@
-# hive-ransomware-static-analysis
+# Hive Ransomware – Static Malware Analysis
 Static malware analysis of Hive ransomware in an isolated lab environment
 
 This repository contains a static malware analysis case study of a Hive ransomware sample obtained from the TheZoo repository.
